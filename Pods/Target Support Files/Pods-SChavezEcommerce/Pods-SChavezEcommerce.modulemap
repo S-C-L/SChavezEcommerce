@@ -1,0 +1,6 @@
+framework module Pods_SChavezEcommerce {
+  umbrella header "Pods-SChavezEcommerce-umbrella.h"
+
+  export *
+  module * { export * }
+}
