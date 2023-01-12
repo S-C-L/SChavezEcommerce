@@ -35,15 +35,8 @@ class ProductoViewModel{
                 }else{
                     result.Correct = false
                 }
-            print(statement)
                 print("Producto agregado correctamente")
-                print(producto.Nombre)
-                print(producto.PrecioUnitario)
-                print(producto.Stock)
-                print(producto.Proveedor.IdProveedor)
-                print(producto.Departamento.IdDepartamento)
-                print(producto.Descripcion)
-                print(producto.Imagen)
+             
             }
         } catch let error {
             result.Correct = false
@@ -74,13 +67,6 @@ class ProductoViewModel{
                 sqlite3_bind_text(statement, 7, (producto.Imagen as NSString).utf8String, -1, nil)
                 
                 print("Producto Actualizado correctamente")
-               // print(producto.IdProducto)
-                print(producto.Nombre)
-                print(producto.PrecioUnitario)
-                print(producto.Stock)
-                print(producto.Proveedor.IdProveedor)
-                print(producto.Departamento.IdDepartamento)
-                print(producto.Descripcion)
                 
                 if (sqlite3_step(statement) > 0)
                                    {
@@ -120,13 +106,6 @@ class ProductoViewModel{
                 if try sqlite3_prepare_v2(context.db, query, -1, &statement, nil) == SQLITE_OK{
                     sqlite3_bind_int(statement, 0, (producto.IdProducto as NSNumber).int32Value)
                     
-                  /* sqlite3_bind_text(statement, 1, (producto.Nombre as NSString).utf8String, -1, nil)
-                    sqlite3_bind_double(statement, 2, producto.PrecioUnitario)
-                    sqlite3_bind_int(statement, 3, (producto.Stock as NSNumber).int32Value)
-                    sqlite3_bind_int(statement, 4, (producto.Proveedor.IdProveedor as NSNumber).int32Value)
-                    sqlite3_bind_int(statement, 5, (producto.Departamento.IdDepartamento as NSNumber).int32Value)
-                    sqlite3_bind_text(statement, 6, (producto.Descripcion as NSString).utf8String, -1, nil)*/
-                              
                 if sqlite3_step(statement) == SQLITE_DONE{
                     result.Correct = true
                 }else{
@@ -163,27 +142,14 @@ class ProductoViewModel{
                     producto.Stock = Int(sqlite3_column_int(statement, 3))
                     producto.Descripcion = String(cString: sqlite3_column_text(statement, 4))
                     
-                   
-                    
-                  //  producto.Imagen = String(cString: sqlite3_column_text(statement, 7))
                     if sqlite3_column_text(statement, 5) != nil{
                         producto.Imagen = String(cString: sqlite3_column_text(statement, 5))
                     }else{
                         producto.Imagen = ""
                         
                     }
-                    
-                    /*if sqlite3_column_text(statement, 7) != nil {
-                        //producto.Imagen = "Nombre por default"
-                        producto.Imagen = String(cString: sqlite3_column_text(statement, 7))
-                    
-                    }else{
-                        producto.Imagen = "Nombre por default"
-                    }*/
                   
                     result.Objects?.append(producto)
-                  // print(producto)
-                   // print(producto.Imagen)
                     
                 }
                 result.Correct = true
@@ -212,11 +178,6 @@ class ProductoViewModel{
                     producto.PrecioUnitario = Double(sqlite3_column_double(statement, 2))
                     producto.Stock = Int(sqlite3_column_int(statement, 3))
                     producto.Descripcion = String(cString: sqlite3_column_text(statement, 4))
-                    //producto.Imagen = String(cString: sqlite3_column_text(statement, 5))
-                    
-                    
-                /*    result.Objects?.append(producto)
-                    print(producto)*/
                     result.Object = producto
                     print(producto)
                 }

@@ -99,11 +99,6 @@ class ProductoForm: UIViewController, UIImagePickerControllerDelegate,UINavigati
       /*  var result = productoViewModel.GetById(producto: Producto(IdProducto: idproducto, Nombre: "", PrecioUnitario: 0.0, Stock: 0, Proveedor: Proveedor(IdProveedor: 0, Nombre: "", Telefono: ""), Departamento: Departamento(IdDepartamento: 0, NombreDepartamento: "", IdArea: Area(IdArea: 0, Nombre: "")), Descripcion: "", Imagen: ""))*/
         
         var result = productoViewModel.GetById(Idproducto: idProducto!)
-        
-       
-
-        
-        
     }
     
     @IBAction func AddButton(_ sender: UIButton) {

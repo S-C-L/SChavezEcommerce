@@ -12,6 +12,9 @@
 		FB21D2BD296784BB00B9965F /* DepartamentoTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = FB21D2BB296784BB00B9965F /* DepartamentoTableViewCell.xib */; };
 		FB233E22296785FD0019C832 /* DepartamentoViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB233E21296785FD0019C832 /* DepartamentoViewModel.swift */; };
 		FB2404FA296885C100D15A21 /* DepartamentoGetAllTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB2404F8296885C100D15A21 /* DepartamentoGetAllTableViewController.swift */; };
+		FB2CFCA8296DE30600099C3F /* Usuario.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB2CFCA7296DE30600099C3F /* Usuario.swift */; };
+		FB2CFCAB296DE4C500099C3F /* UsuarioViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB2CFCAA296DE4C500099C3F /* UsuarioViewModel.swift */; };
+		FB2CFCAE296DE4F800099C3F /* UsuarioForm.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB2CFCAD296DE4F800099C3F /* UsuarioForm.swift */; };
 		FB37AD35296783BC000743ED /* DepartamentoForm.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB37AD34296783BC000743ED /* DepartamentoForm.swift */; };
 		FB468E03296612F10095DDF4 /* ProductoTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB468E01296612F10095DDF4 /* ProductoTableViewCell.swift */; };
 		FB468E04296612F10095DDF4 /* ProductoTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = FB468E02296612F10095DDF4 /* ProductoTableViewCell.xib */; };
@@ -41,6 +44,9 @@
 		FB21D2BB296784BB00B9965F /* DepartamentoTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = DepartamentoTableViewCell.xib; path = ../Controller/DepartamentoTableViewCell.xib; sourceTree = "<group>"; };
 		FB233E21296785FD0019C832 /* DepartamentoViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DepartamentoViewModel.swift; sourceTree = "<group>"; };
 		FB2404F8296885C100D15A21 /* DepartamentoGetAllTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DepartamentoGetAllTableViewController.swift; sourceTree = "<group>"; };
+		FB2CFCA7296DE30600099C3F /* Usuario.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Usuario.swift; sourceTree = "<group>"; };
+		FB2CFCAA296DE4C500099C3F /* UsuarioViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UsuarioViewModel.swift; sourceTree = "<group>"; };
+		FB2CFCAD296DE4F800099C3F /* UsuarioForm.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UsuarioForm.swift; sourceTree = "<group>"; };
 		FB37AD34296783BC000743ED /* DepartamentoForm.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DepartamentoForm.swift; sourceTree = "<group>"; };
 		FB468E01296612F10095DDF4 /* ProductoTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductoTableViewCell.swift; sourceTree = "<group>"; };
 		FB468E02296612F10095DDF4 /* ProductoTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = ProductoTableViewCell.xib; path = ../Controller/ProductoTableViewCell.xib; sourceTree = "<group>"; };
@@ -111,6 +117,30 @@
 			name = Departamento;
 			sourceTree = "<group>";
 		};
+		FB2CFCA6296DE2E400099C3F /* Usuario */ = {
+			isa = PBXGroup;
+			children = (
+				FB2CFCA7296DE30600099C3F /* Usuario.swift */,
+			);
+			name = Usuario;
+			sourceTree = "<group>";
+		};
+		FB2CFCA9296DE4A000099C3F /* Usuario */ = {
+			isa = PBXGroup;
+			children = (
+				FB2CFCAA296DE4C500099C3F /* UsuarioViewModel.swift */,
+			);
+			name = Usuario;
+			sourceTree = "<group>";
+		};
+		FB2CFCAC296DE4E200099C3F /* Usuario */ = {
+			isa = PBXGroup;
+			children = (
+				FB2CFCAD296DE4F800099C3F /* UsuarioForm.swift */,
+			);
+			path = Usuario;
+			sourceTree = "<group>";
+		};
 		FB6C323329660FD9003BF901 = {
 			isa = PBXGroup;
 			children = (
@@ -159,6 +189,7 @@
 		FB6C325729661006003BF901 /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				FB2CFCA6296DE2E400099C3F /* Usuario */,
 				FB6C325A296610A1003BF901 /* Producto.swift */,
 				FB6C325C296610BF003BF901 /* Result.swift */,
 				FB6C325E296610D2003BF901 /* Proveedor.swift */,
@@ -171,6 +202,7 @@
 		FB6C32582966101B003BF901 /* ViewModel */ = {
 			isa = PBXGroup;
 			children = (
+				FB2CFCA9296DE4A000099C3F /* Usuario */,
 				FB233E242967A9730019C832 /* Departamento */,
 				FB468E05296613270095DDF4 /* DB.swift */,
 				FB468E072966134A0095DDF4 /* ProductoViewModel.swift */,
@@ -181,6 +213,7 @@
 		FB6C325929661056003BF901 /* Controller */ = {
 			isa = PBXGroup;
 			children = (
+				FB2CFCAC296DE4E200099C3F /* Usuario */,
 				FB233E232967A9270019C832 /* Departamento */,
 				FB6C326429661111003BF901 /* ProductoForm.swift */,
 				FBC5C0182966125600193513 /* GetAllTableViewController.swift */,
@@ -307,6 +340,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FB2CFCAE296DE4F800099C3F /* UsuarioForm.swift in Sources */,
 				FB468E06296613270095DDF4 /* DB.swift in Sources */,
 				FB6C325D296610BF003BF901 /* Result.swift in Sources */,
 				FB6C3261296610E7003BF901 /* Departamento.swift in Sources */,
@@ -315,6 +349,7 @@
 				FB6C326529661111003BF901 /* ProductoForm.swift in Sources */,
 				FB6C324A29660FD9003BF901 /* SChavezEcommerce.xcdatamodeld in Sources */,
 				FB233E22296785FD0019C832 /* DepartamentoViewModel.swift in Sources */,
+				FB2CFCA8296DE30600099C3F /* Usuario.swift in Sources */,
 				FB468E082966134A0095DDF4 /* ProductoViewModel.swift in Sources */,
 				FB468E03296612F10095DDF4 /* ProductoTableViewCell.swift in Sources */,
 				FB6C325F296610D2003BF901 /* Proveedor.swift in Sources */,
@@ -323,6 +358,7 @@
 				FB6C324029660FD9003BF901 /* AppDelegate.swift in Sources */,
 				FB37AD35296783BC000743ED /* DepartamentoForm.swift in Sources */,
 				FB6C3263296610F3003BF901 /* Area.swift in Sources */,
+				FB2CFCAB296DE4C500099C3F /* UsuarioViewModel.swift in Sources */,
 				FB2404FA296885C100D15A21 /* DepartamentoGetAllTableViewController.swift in Sources */,
 				FB6C324229660FD9003BF901 /* SceneDelegate.swift in Sources */,
 			);
