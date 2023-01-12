@@ -15,6 +15,7 @@
 		FB2CFCA8296DE30600099C3F /* Usuario.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB2CFCA7296DE30600099C3F /* Usuario.swift */; };
 		FB2CFCAB296DE4C500099C3F /* UsuarioViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB2CFCAA296DE4C500099C3F /* UsuarioViewModel.swift */; };
 		FB2CFCAE296DE4F800099C3F /* UsuarioForm.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB2CFCAD296DE4F800099C3F /* UsuarioForm.swift */; };
+		FB2D32572970774700F31E86 /* Rol.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB2D32562970774700F31E86 /* Rol.swift */; };
 		FB37AD35296783BC000743ED /* DepartamentoForm.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB37AD34296783BC000743ED /* DepartamentoForm.swift */; };
 		FB468E03296612F10095DDF4 /* ProductoTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB468E01296612F10095DDF4 /* ProductoTableViewCell.swift */; };
 		FB468E04296612F10095DDF4 /* ProductoTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = FB468E02296612F10095DDF4 /* ProductoTableViewCell.xib */; };
@@ -47,6 +48,7 @@
 		FB2CFCA7296DE30600099C3F /* Usuario.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Usuario.swift; sourceTree = "<group>"; };
 		FB2CFCAA296DE4C500099C3F /* UsuarioViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UsuarioViewModel.swift; sourceTree = "<group>"; };
 		FB2CFCAD296DE4F800099C3F /* UsuarioForm.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UsuarioForm.swift; sourceTree = "<group>"; };
+		FB2D32562970774700F31E86 /* Rol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Rol.swift; sourceTree = "<group>"; };
 		FB37AD34296783BC000743ED /* DepartamentoForm.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DepartamentoForm.swift; sourceTree = "<group>"; };
 		FB468E01296612F10095DDF4 /* ProductoTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductoTableViewCell.swift; sourceTree = "<group>"; };
 		FB468E02296612F10095DDF4 /* ProductoTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = ProductoTableViewCell.xib; path = ../Controller/ProductoTableViewCell.xib; sourceTree = "<group>"; };
@@ -121,6 +123,7 @@
 			isa = PBXGroup;
 			children = (
 				FB2CFCA7296DE30600099C3F /* Usuario.swift */,
+				FB2D32562970774700F31E86 /* Rol.swift */,
 			);
 			name = Usuario;
 			sourceTree = "<group>";
@@ -357,6 +360,7 @@
 				FB6C325B296610A1003BF901 /* Producto.swift in Sources */,
 				FB6C324029660FD9003BF901 /* AppDelegate.swift in Sources */,
 				FB37AD35296783BC000743ED /* DepartamentoForm.swift in Sources */,
+				FB2D32572970774700F31E86 /* Rol.swift in Sources */,
 				FB6C3263296610F3003BF901 /* Area.swift in Sources */,
 				FB2CFCAB296DE4C500099C3F /* UsuarioViewModel.swift in Sources */,
 				FB2404FA296885C100D15A21 /* DepartamentoGetAllTableViewController.swift in Sources */,

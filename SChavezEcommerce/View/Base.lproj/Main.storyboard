@@ -110,7 +110,7 @@
         <scene sceneID="lDG-hS-fbz">
             <objects>
                 <viewController id="YQa-WW-bda" customClass="UsuarioForm" customModule="SChavezEcommerce" customModuleProvider="target" sceneMemberID="viewController">
-                    <view key="view" contentMode="scaleToFill" id="oEm-nd-EU6">
+                    <view key="view" contentMode="scaleToFill" ambiguous="YES" id="oEm-nd-EU6">
                         <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
@@ -118,37 +118,37 @@
                                 <rect key="frame" x="0.0" y="59" width="393" height="793"/>
                                 <subviews>
                                     <textField opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="248" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Nombre" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="0tA-xq-G2b">
-                                        <rect key="frame" x="104" y="130" width="184" height="34"/>
+                                        <rect key="frame" x="104" y="106" width="184" height="34"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                         <textInputTraits key="textInputTraits"/>
                                     </textField>
                                     <textField opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="248" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Apellido Paterno" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="ppi-S0-FO2">
-                                        <rect key="frame" x="104" y="197" width="184" height="34"/>
+                                        <rect key="frame" x="104" y="149" width="184" height="34"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                         <textInputTraits key="textInputTraits"/>
                                     </textField>
                                     <textField opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="248" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Fecha Nacimiento" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="SOG-Wb-r6D">
-                                        <rect key="frame" x="104" y="254" width="184" height="34"/>
+                                        <rect key="frame" x="104" y="234" width="184" height="34"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                         <textInputTraits key="textInputTraits"/>
                                     </textField>
                                     <textField opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="248" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Email" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="ohi-ud-TyO">
-                                        <rect key="frame" x="104" y="320" width="184" height="34"/>
+                                        <rect key="frame" x="104" y="276" width="184" height="34"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                         <textInputTraits key="textInputTraits"/>
                                     </textField>
                                     <textField opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="248" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Password" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="jVO-Xe-Khk">
-                                        <rect key="frame" x="104" y="389" width="184" height="34"/>
+                                        <rect key="frame" x="104" y="318" width="184" height="34"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                         <textInputTraits key="textInputTraits"/>
                                     </textField>
                                     <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="DwU-Bk-3Pw">
-                                        <rect key="frame" x="43" y="464" width="85" height="35"/>
+                                        <rect key="frame" x="47" y="656" width="85" height="35"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <state key="normal" title="Button"/>
                                         <buttonConfiguration key="configuration" style="filled" title="Agregar"/>
@@ -157,7 +157,7 @@
                                         </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="kk4-3O-fXe">
-                                        <rect key="frame" x="141" y="464" width="100" height="35"/>
+                                        <rect key="frame" x="155" y="658" width="100" height="35"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <state key="normal" title="Button"/>
                                         <buttonConfiguration key="configuration" style="filled" title="Actualizar">
@@ -168,7 +168,7 @@
                                         </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Hka-yX-jfY">
-                                        <rect key="frame" x="263" y="464" width="84" height="35"/>
+                                        <rect key="frame" x="276" y="657" width="84" height="35"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <state key="normal" title="Button"/>
                                         <buttonConfiguration key="configuration" style="filled" title="Eliminar">
@@ -179,17 +179,11 @@
                                         </connections>
                                     </button>
                                     <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="User" translatesAutoresizingMaskIntoConstraints="NO" id="uve-MF-h1r">
-                                        <rect key="frame" x="112" y="13" width="169" height="92"/>
+                                        <rect key="frame" x="112" y="0.0" width="169" height="92"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                     </imageView>
-                                    <textField opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="248" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Id Usuario" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="oGq-7v-A4R">
-                                        <rect key="frame" x="257" y="520" width="97" height="34"/>
-                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
-                                        <textInputTraits key="textInputTraits"/>
-                                    </textField>
                                     <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="SXo-Q7-t9q">
-                                        <rect key="frame" x="155" y="519" width="98" height="35"/>
+                                        <rect key="frame" x="155" y="709" width="98" height="35"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <state key="normal" title="Button"/>
                                         <buttonConfiguration key="configuration" style="filled" title="Buscar ID"/>
@@ -198,7 +192,7 @@
                                         </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="KEy-FP-8bA">
-                                        <rect key="frame" x="51" y="520" width="77" height="35"/>
+                                        <rect key="frame" x="47" y="709" width="77" height="35"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <state key="normal" title="Button"/>
                                         <buttonConfiguration key="configuration" style="filled" title="Buscar">
@@ -208,7 +202,73 @@
                                             <action selector="GetAllButton:" destination="YQa-WW-bda" eventType="touchUpInside" id="OG2-n8-H6b"/>
                                         </connections>
                                     </button>
+                                    <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="NWT-0k-fwQ">
+                                        <rect key="frame" x="213" y="65" width="29" height="27"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                        <state key="normal" title="Button"/>
+                                        <buttonConfiguration key="configuration" style="filled" image="camera" catalog="system">
+                                            <color key="baseBackgroundColor" systemColor="linkColor"/>
+                                        </buttonConfiguration>
+                                    </button>
+                                    <textField opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="248" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="User Name" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="FAL-y4-sPn">
+                                        <rect key="frame" x="104" y="360" width="184" height="34"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                        <textInputTraits key="textInputTraits"/>
+                                    </textField>
+                                    <textField opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="248" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Sexo" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="5XP-f8-uCV">
+                                        <rect key="frame" x="104" y="402" width="184" height="34"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                        <textInputTraits key="textInputTraits"/>
+                                    </textField>
+                                    <textField opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="248" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Telefono" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="YV5-Mr-gJs">
+                                        <rect key="frame" x="104" y="444" width="184" height="34"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                        <textInputTraits key="textInputTraits"/>
+                                    </textField>
+                                    <textField opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="248" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="QzT-sN-yhV">
+                                        <rect key="frame" x="104" y="106949" width="184" height="34"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                        <textInputTraits key="textInputTraits"/>
+                                    </textField>
+                                    <textField opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="248" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Celular" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="XAX-h7-nEv">
+                                        <rect key="frame" x="104" y="486" width="184" height="34"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                        <textInputTraits key="textInputTraits"/>
+                                    </textField>
+                                    <textField opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="248" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="CURP" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="m96-us-G1H">
+                                        <rect key="frame" x="104" y="534" width="184" height="34"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                        <textInputTraits key="textInputTraits"/>
+                                    </textField>
+                                    <textField opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="248" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Rol" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="mAW-WO-8Ea">
+                                        <rect key="frame" x="104" y="581" width="184" height="34"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                        <textInputTraits key="textInputTraits"/>
+                                    </textField>
+                                    <textField opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="248" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Id Usuario" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="oGq-7v-A4R">
+                                        <rect key="frame" x="276" y="734" width="97" height="34"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                        <textInputTraits key="textInputTraits"/>
+                                    </textField>
+                                    <textField opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="248" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Apellido Materno" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="LX4-uf-XEW">
+                                        <rect key="frame" x="104" y="191" width="184" height="34"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                        <textInputTraits key="textInputTraits"/>
+                                    </textField>
                                 </subviews>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="200" id="EgX-qg-VKm"/>
+                                    <constraint firstAttribute="height" constant="200" id="yxy-MR-tsw"/>
+                                </constraints>
                                 <viewLayoutGuide key="contentLayoutGuide" id="OmS-dx-8Fd"/>
                                 <viewLayoutGuide key="frameLayoutGuide" id="eI8-rY-2zY"/>
                             </scrollView>
@@ -216,20 +276,33 @@
                         <viewLayoutGuide key="safeArea" id="r14-mI-yvT"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <constraints>
+                            <constraint firstAttribute="bottom" secondItem="dSM-bx-BHu" secondAttribute="bottom" constant="200" id="1Ne-bn-trG"/>
+                            <constraint firstItem="dSM-bx-BHu" firstAttribute="top" secondItem="r14-mI-yvT" secondAttribute="top" constant="200" id="1US-Cj-sL5"/>
                             <constraint firstAttribute="bottom" secondItem="dSM-bx-BHu" secondAttribute="bottom" constant="1" id="7sO-vc-YYa"/>
+                            <constraint firstItem="dSM-bx-BHu" firstAttribute="trailing" secondItem="r14-mI-yvT" secondAttribute="trailing" constant="200" id="Tfx-8C-YOe"/>
                             <constraint firstItem="dSM-bx-BHu" firstAttribute="leading" secondItem="r14-mI-yvT" secondAttribute="leading" id="aqS-iM-Cfj"/>
+                            <constraint firstAttribute="bottom" secondItem="dSM-bx-BHu" secondAttribute="bottom" constant="200" id="iMU-wI-lzP"/>
+                            <constraint firstItem="dSM-bx-BHu" firstAttribute="top" secondItem="r14-mI-yvT" secondAttribute="top" constant="200" id="lsb-9o-BDJ"/>
                             <constraint firstItem="dSM-bx-BHu" firstAttribute="top" secondItem="r14-mI-yvT" secondAttribute="top" id="oiG-Mr-ulc"/>
+                            <constraint firstItem="dSM-bx-BHu" firstAttribute="leading" secondItem="r14-mI-yvT" secondAttribute="leading" constant="200" id="tSk-WN-FBF"/>
                             <constraint firstItem="dSM-bx-BHu" firstAttribute="centerX" secondItem="oEm-nd-EU6" secondAttribute="centerX" id="yi8-P3-Y6E"/>
                         </constraints>
                     </view>
                     <connections>
                         <outlet property="AddButton" destination="DwU-Bk-3Pw" id="zM2-KI-8jp"/>
+                        <outlet property="ApellidoMaternoField" destination="LX4-uf-XEW" id="2FG-zJ-X8h"/>
                         <outlet property="ApellidoPaternoField" destination="ppi-S0-FO2" id="ouA-Ia-dBP"/>
+                        <outlet property="CelularField" destination="XAX-h7-nEv" id="hlI-ce-ASD"/>
+                        <outlet property="CurpField" destination="m96-us-G1H" id="zf5-ss-4vn"/>
                         <outlet property="Email" destination="ohi-ud-TyO" id="Ihr-ku-eY7"/>
                         <outlet property="FechaNacimiento" destination="SOG-Wb-r6D" id="DJ6-qY-u3y"/>
                         <outlet property="IdUsuario" destination="oGq-7v-A4R" id="XzX-1R-AvU"/>
                         <outlet property="NombreField" destination="0tA-xq-G2b" id="tNu-nK-3vw"/>
                         <outlet property="Password" destination="jVO-Xe-Khk" id="KeK-ux-lU3"/>
+                        <outlet property="RolField" destination="mAW-WO-8Ea" id="giP-YG-K8g"/>
+                        <outlet property="SexoField" destination="5XP-f8-uCV" id="8CR-8z-DY0"/>
+                        <outlet property="TelefonoField" destination="YV5-Mr-gJs" id="biU-Wc-Mjt"/>
+                        <outlet property="UserNameField" destination="FAL-y4-sPn" id="OVA-8e-39q"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="FL2-aq-UDs" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
@@ -708,6 +781,9 @@
     <resources>
         <image name="User" width="300" height="300"/>
         <image name="camera" catalog="system" width="128" height="93"/>
+        <systemColor name="linkColor">
+            <color red="0.0" green="0.47843137254901963" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>

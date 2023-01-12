@@ -222,134 +222,6 @@
             filePath = "SChavezEcommerce/Controller/Usuario/UsuarioForm.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "31"
-            endingLineNumber = "31"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "CAAFAE0A-EE92-4937-9932-E6FC4E201F38"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "SChavezEcommerce/Controller/Usuario/UsuarioForm.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "32"
-            endingLineNumber = "32"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "85BE27A1-A6D9-4821-9B00-FB9AA84808BD"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "SChavezEcommerce/Controller/Usuario/UsuarioForm.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "34"
-            endingLineNumber = "34"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "519263CF-DDEC-4B02-9ECE-663B061BCD26"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "SChavezEcommerce/Controller/Usuario/UsuarioForm.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "33"
-            endingLineNumber = "33"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "6FB80B93-4DE9-46DB-B85F-D0C9886F57E6"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "SChavezEcommerce/Controller/Usuario/UsuarioForm.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "35"
-            endingLineNumber = "35"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "D259CE38-C45C-4B31-BDF1-D26BAB3257CA"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "SChavezEcommerce/Controller/Usuario/UsuarioForm.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "36"
-            endingLineNumber = "36"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "4C560F77-BE2F-46BD-83E3-8F3CFA46A7BA"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "SChavezEcommerce/Controller/Usuario/UsuarioForm.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "42"
-            endingLineNumber = "42"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "1A43417F-62AC-481E-BF81-D8E2BE27A716"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "SChavezEcommerce/Controller/Usuario/UsuarioForm.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "38"
-            endingLineNumber = "38"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "480D75F8-7ACC-41D8-9F34-D8B0263488D3"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "SChavezEcommerce/Controller/Usuario/UsuarioForm.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
             startingLineNumber = "39"
             endingLineNumber = "39"
             landmarkName = "viewDidLoad()"
@@ -359,151 +231,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "37BD47A0-B8A1-4E3A-8C1E-E57BFFC697BE"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "SChavezEcommerce/UsuarioViewModel.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "22"
-            endingLineNumber = "22"
-            landmarkName = "Add(nombre:apellidoPaterno:fechaNacimiento:email:password:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "FEFA994B-0EAC-49F7-86A3-6B12B34B0183"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "SChavezEcommerce/UsuarioViewModel.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "23"
-            endingLineNumber = "23"
-            landmarkName = "Add(nombre:apellidoPaterno:fechaNacimiento:email:password:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "22CFD186-75EB-408B-8D8F-E2E9F4113AD9"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "SChavezEcommerce/UsuarioViewModel.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "24"
-            endingLineNumber = "24"
-            landmarkName = "Add(nombre:apellidoPaterno:fechaNacimiento:email:password:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "F1711B2B-9A9A-48C7-A3A9-2B14C0B41593"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "SChavezEcommerce/UsuarioViewModel.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "25"
-            endingLineNumber = "25"
-            landmarkName = "Add(nombre:apellidoPaterno:fechaNacimiento:email:password:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "E38472F5-5946-4ABD-A0A7-A70BCAD5BA18"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "SChavezEcommerce/UsuarioViewModel.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "26"
-            endingLineNumber = "26"
-            landmarkName = "Add(nombre:apellidoPaterno:fechaNacimiento:email:password:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "61DA23EB-C5C0-4819-B64E-7596F693DBD7"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "SChavezEcommerce/UsuarioViewModel.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "27"
-            endingLineNumber = "27"
-            landmarkName = "Add(nombre:apellidoPaterno:fechaNacimiento:email:password:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "BB9FEE1E-BFB1-41D6-9946-99C8CE8A4903"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "SChavezEcommerce/UsuarioViewModel.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "28"
-            endingLineNumber = "28"
-            landmarkName = "Add(nombre:apellidoPaterno:fechaNacimiento:email:password:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "3C208774-4CB9-47E0-A2A9-4B9E0F9F07CB"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "SChavezEcommerce/UsuarioViewModel.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "30"
-            endingLineNumber = "30"
-            landmarkName = "Add(nombre:apellidoPaterno:fechaNacimiento:email:password:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "2FDCE30A-07FA-47C8-8624-D06DF7916AAF"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "SChavezEcommerce/UsuarioViewModel.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "31"
-            endingLineNumber = "31"
-            landmarkName = "Add(nombre:apellidoPaterno:fechaNacimiento:email:password:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "8F77E87B-5110-4D2B-B24C-2725C1FFEFC3"
+            uuid = "CAAFAE0A-EE92-4937-9932-E6FC4E201F38"
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
@@ -519,6 +247,262 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
+            uuid = "85BE27A1-A6D9-4821-9B00-FB9AA84808BD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SChavezEcommerce/Controller/Usuario/UsuarioForm.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "519263CF-DDEC-4B02-9ECE-663B061BCD26"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SChavezEcommerce/Controller/Usuario/UsuarioForm.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6FB80B93-4DE9-46DB-B85F-D0C9886F57E6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SChavezEcommerce/Controller/Usuario/UsuarioForm.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D259CE38-C45C-4B31-BDF1-D26BAB3257CA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SChavezEcommerce/Controller/Usuario/UsuarioForm.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4C560F77-BE2F-46BD-83E3-8F3CFA46A7BA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SChavezEcommerce/Controller/Usuario/UsuarioForm.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1A43417F-62AC-481E-BF81-D8E2BE27A716"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SChavezEcommerce/Controller/Usuario/UsuarioForm.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "480D75F8-7ACC-41D8-9F34-D8B0263488D3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SChavezEcommerce/Controller/Usuario/UsuarioForm.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "37BD47A0-B8A1-4E3A-8C1E-E57BFFC697BE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SChavezEcommerce/UsuarioViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "Add(nombre:apellidoPaterno:apellidoMaterno:fechaNacimiento:email:password:userName:sexo:telefono:celular:curp:rol:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FEFA994B-0EAC-49F7-86A3-6B12B34B0183"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SChavezEcommerce/UsuarioViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "Add(nombre:apellidoPaterno:apellidoMaterno:fechaNacimiento:email:password:userName:sexo:telefono:celular:curp:rol:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "22CFD186-75EB-408B-8D8F-E2E9F4113AD9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SChavezEcommerce/UsuarioViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "Add(nombre:apellidoPaterno:apellidoMaterno:fechaNacimiento:email:password:userName:sexo:telefono:celular:curp:rol:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F1711B2B-9A9A-48C7-A3A9-2B14C0B41593"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SChavezEcommerce/UsuarioViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "Add(nombre:apellidoPaterno:apellidoMaterno:fechaNacimiento:email:password:userName:sexo:telefono:celular:curp:rol:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E38472F5-5946-4ABD-A0A7-A70BCAD5BA18"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SChavezEcommerce/UsuarioViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "Add(nombre:apellidoPaterno:apellidoMaterno:fechaNacimiento:email:password:userName:sexo:telefono:celular:curp:rol:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "61DA23EB-C5C0-4819-B64E-7596F693DBD7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SChavezEcommerce/UsuarioViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "Add(nombre:apellidoPaterno:apellidoMaterno:fechaNacimiento:email:password:userName:sexo:telefono:celular:curp:rol:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BB9FEE1E-BFB1-41D6-9946-99C8CE8A4903"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SChavezEcommerce/UsuarioViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "Add(nombre:apellidoPaterno:apellidoMaterno:fechaNacimiento:email:password:userName:sexo:telefono:celular:curp:rol:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3C208774-4CB9-47E0-A2A9-4B9E0F9F07CB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SChavezEcommerce/UsuarioViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "Add(nombre:apellidoPaterno:apellidoMaterno:fechaNacimiento:email:password:userName:sexo:telefono:celular:curp:rol:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2FDCE30A-07FA-47C8-8624-D06DF7916AAF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SChavezEcommerce/UsuarioViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "Add(nombre:apellidoPaterno:apellidoMaterno:fechaNacimiento:email:password:userName:sexo:telefono:celular:curp:rol:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
             uuid = "59C2967D-2208-43C0-9A3E-9492D3515A59"
             shouldBeEnabled = "No"
             ignoreCount = "0"
@@ -526,9 +510,9 @@
             filePath = "SChavezEcommerce/UsuarioViewModel.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "32"
-            endingLineNumber = "32"
-            landmarkName = "Add(nombre:apellidoPaterno:fechaNacimiento:email:password:)"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "Add(nombre:apellidoPaterno:apellidoMaterno:fechaNacimiento:email:password:userName:sexo:telefono:celular:curp:rol:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -542,9 +526,9 @@
             filePath = "SChavezEcommerce/UsuarioViewModel.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "111"
-            endingLineNumber = "111"
-            landmarkName = "Update(IdUsuario:Nombre:Apaterno:Email:Password:)"
+            startingLineNumber = "132"
+            endingLineNumber = "132"
+            landmarkName = "Update(IdUsuario:Nombre:Apaterno:Amaterno:Email:Password:Username:Sexo:Telefono:Celular:CURP:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -558,9 +542,9 @@
             filePath = "SChavezEcommerce/UsuarioViewModel.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "112"
-            endingLineNumber = "112"
-            landmarkName = "Update(IdUsuario:Nombre:Apaterno:Email:Password:)"
+            startingLineNumber = "133"
+            endingLineNumber = "133"
+            landmarkName = "Update(IdUsuario:Nombre:Apaterno:Amaterno:Email:Password:Username:Sexo:Telefono:Celular:CURP:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -574,9 +558,9 @@
             filePath = "SChavezEcommerce/UsuarioViewModel.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "115"
-            endingLineNumber = "115"
-            landmarkName = "Update(IdUsuario:Nombre:Apaterno:Email:Password:)"
+            startingLineNumber = "136"
+            endingLineNumber = "136"
+            landmarkName = "Update(IdUsuario:Nombre:Apaterno:Amaterno:Email:Password:Username:Sexo:Telefono:Celular:CURP:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -590,9 +574,9 @@
             filePath = "SChavezEcommerce/UsuarioViewModel.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "117"
-            endingLineNumber = "117"
-            landmarkName = "Update(IdUsuario:Nombre:Apaterno:Email:Password:)"
+            startingLineNumber = "138"
+            endingLineNumber = "138"
+            landmarkName = "Update(IdUsuario:Nombre:Apaterno:Amaterno:Email:Password:Username:Sexo:Telefono:Celular:CURP:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -606,25 +590,9 @@
             filePath = "SChavezEcommerce/UsuarioViewModel.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "118"
-            endingLineNumber = "118"
-            landmarkName = "Update(IdUsuario:Nombre:Apaterno:Email:Password:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "32C0EE4B-CA4D-4ADE-9DCB-BB5B6C3D0C58"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "SChavezEcommerce/UsuarioViewModel.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "126"
-            endingLineNumber = "126"
-            landmarkName = "Update(IdUsuario:Nombre:Apaterno:Email:Password:)"
+            startingLineNumber = "139"
+            endingLineNumber = "139"
+            landmarkName = "Update(IdUsuario:Nombre:Apaterno:Amaterno:Email:Password:Username:Sexo:Telefono:Celular:CURP:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -638,9 +606,9 @@
             filePath = "SChavezEcommerce/UsuarioViewModel.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "123"
-            endingLineNumber = "123"
-            landmarkName = "Update(IdUsuario:Nombre:Apaterno:Email:Password:)"
+            startingLineNumber = "151"
+            endingLineNumber = "151"
+            landmarkName = "Update(IdUsuario:Nombre:Apaterno:Amaterno:Email:Password:Username:Sexo:Telefono:Celular:CURP:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -654,8 +622,8 @@
             filePath = "SChavezEcommerce/Controller/Usuario/UsuarioForm.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "93"
-            endingLineNumber = "93"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
             landmarkName = "GetAllButton(_:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -686,8 +654,8 @@
             filePath = "SChavezEcommerce/UsuarioViewModel.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "43"
-            endingLineNumber = "43"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
             landmarkName = "GetAll()"
             landmarkType = "7">
          </BreakpointContent>
@@ -696,54 +664,6 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "07621BC7-0DEC-4CAB-888A-868280AF3FDF"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "SChavezEcommerce/UsuarioViewModel.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "44"
-            endingLineNumber = "44"
-            landmarkName = "GetAll()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "50FDB405-F3DD-42A5-AFCC-A122661FEE2E"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "SChavezEcommerce/UsuarioViewModel.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "45"
-            endingLineNumber = "45"
-            landmarkName = "GetAll()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "7FD56240-C549-4463-8502-6F2BE6349863"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "SChavezEcommerce/UsuarioViewModel.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "46"
-            endingLineNumber = "46"
-            landmarkName = "GetAll()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "3B365DDF-5B16-4700-BC68-A54FBBB6FBC9"
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
@@ -759,7 +679,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "34491708-DE00-48DE-9117-232B62B625D7"
+            uuid = "50FDB405-F3DD-42A5-AFCC-A122661FEE2E"
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
@@ -768,6 +688,54 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "54"
             endingLineNumber = "54"
+            landmarkName = "GetAll()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7FD56240-C549-4463-8502-6F2BE6349863"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SChavezEcommerce/UsuarioViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "GetAll()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3B365DDF-5B16-4700-BC68-A54FBBB6FBC9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SChavezEcommerce/UsuarioViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "GetAll()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "34491708-DE00-48DE-9117-232B62B625D7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SChavezEcommerce/UsuarioViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
             landmarkName = "GetAll()"
             landmarkType = "7">
          </BreakpointContent>
@@ -784,7 +752,7 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "16"
             endingLineNumber = "16"
-            landmarkName = "Add(nombre:apellidoPaterno:fechaNacimiento:email:password:)"
+            landmarkName = "Add(nombre:apellidoPaterno:apellidoMaterno:fechaNacimiento:email:password:userName:sexo:telefono:celular:curp:rol:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -798,8 +766,8 @@
             filePath = "SChavezEcommerce/Controller/Usuario/UsuarioForm.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "44"
-            endingLineNumber = "44"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
             landmarkName = "AddButton(_:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -814,9 +782,9 @@
             filePath = "SChavezEcommerce/UsuarioViewModel.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "104"
-            endingLineNumber = "104"
-            landmarkName = "Update(IdUsuario:Nombre:Apaterno:Email:Password:)"
+            startingLineNumber = "125"
+            endingLineNumber = "125"
+            landmarkName = "Update(IdUsuario:Nombre:Apaterno:Amaterno:Email:Password:Username:Sexo:Telefono:Celular:CURP:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -830,9 +798,9 @@
             filePath = "SChavezEcommerce/UsuarioViewModel.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "105"
-            endingLineNumber = "105"
-            landmarkName = "Update(IdUsuario:Nombre:Apaterno:Email:Password:)"
+            startingLineNumber = "126"
+            endingLineNumber = "126"
+            landmarkName = "Update(IdUsuario:Nombre:Apaterno:Amaterno:Email:Password:Username:Sexo:Telefono:Celular:CURP:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -846,9 +814,9 @@
             filePath = "SChavezEcommerce/UsuarioViewModel.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "107"
-            endingLineNumber = "107"
-            landmarkName = "Update(IdUsuario:Nombre:Apaterno:Email:Password:)"
+            startingLineNumber = "128"
+            endingLineNumber = "128"
+            landmarkName = "Update(IdUsuario:Nombre:Apaterno:Amaterno:Email:Password:Username:Sexo:Telefono:Celular:CURP:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -862,9 +830,9 @@
             filePath = "SChavezEcommerce/UsuarioViewModel.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "106"
-            endingLineNumber = "106"
-            landmarkName = "Update(IdUsuario:Nombre:Apaterno:Email:Password:)"
+            startingLineNumber = "127"
+            endingLineNumber = "127"
+            landmarkName = "Update(IdUsuario:Nombre:Apaterno:Amaterno:Email:Password:Username:Sexo:Telefono:Celular:CURP:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -878,9 +846,9 @@
             filePath = "SChavezEcommerce/UsuarioViewModel.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "108"
-            endingLineNumber = "108"
-            landmarkName = "Update(IdUsuario:Nombre:Apaterno:Email:Password:)"
+            startingLineNumber = "129"
+            endingLineNumber = "129"
+            landmarkName = "Update(IdUsuario:Nombre:Apaterno:Amaterno:Email:Password:Username:Sexo:Telefono:Celular:CURP:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -894,9 +862,9 @@
             filePath = "SChavezEcommerce/UsuarioViewModel.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "109"
-            endingLineNumber = "109"
-            landmarkName = "Update(IdUsuario:Nombre:Apaterno:Email:Password:)"
+            startingLineNumber = "130"
+            endingLineNumber = "130"
+            landmarkName = "Update(IdUsuario:Nombre:Apaterno:Amaterno:Email:Password:Username:Sexo:Telefono:Celular:CURP:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -910,9 +878,9 @@
             filePath = "SChavezEcommerce/UsuarioViewModel.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "110"
-            endingLineNumber = "110"
-            landmarkName = "Update(IdUsuario:Nombre:Apaterno:Email:Password:)"
+            startingLineNumber = "131"
+            endingLineNumber = "131"
+            landmarkName = "Update(IdUsuario:Nombre:Apaterno:Amaterno:Email:Password:Username:Sexo:Telefono:Celular:CURP:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -926,9 +894,9 @@
             filePath = "SChavezEcommerce/UsuarioViewModel.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "114"
-            endingLineNumber = "114"
-            landmarkName = "Update(IdUsuario:Nombre:Apaterno:Email:Password:)"
+            startingLineNumber = "135"
+            endingLineNumber = "135"
+            landmarkName = "Update(IdUsuario:Nombre:Apaterno:Amaterno:Email:Password:Username:Sexo:Telefono:Celular:CURP:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -942,9 +910,9 @@
             filePath = "SChavezEcommerce/UsuarioViewModel.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "119"
-            endingLineNumber = "119"
-            landmarkName = "Update(IdUsuario:Nombre:Apaterno:Email:Password:)"
+            startingLineNumber = "140"
+            endingLineNumber = "140"
+            landmarkName = "Update(IdUsuario:Nombre:Apaterno:Amaterno:Email:Password:Username:Sexo:Telefono:Celular:CURP:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -958,9 +926,9 @@
             filePath = "SChavezEcommerce/UsuarioViewModel.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "153"
-            endingLineNumber = "153"
-            landmarkName = "Delete(IdUsuario:Nombre:Apaterno:Email:Password:)"
+            startingLineNumber = "181"
+            endingLineNumber = "181"
+            landmarkName = "Delete(IdUsuario:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -974,9 +942,9 @@
             filePath = "SChavezEcommerce/UsuarioViewModel.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "154"
-            endingLineNumber = "154"
-            landmarkName = "Delete(IdUsuario:Nombre:Apaterno:Email:Password:)"
+            startingLineNumber = "182"
+            endingLineNumber = "182"
+            landmarkName = "Delete(IdUsuario:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -990,9 +958,9 @@
             filePath = "SChavezEcommerce/UsuarioViewModel.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "152"
-            endingLineNumber = "152"
-            landmarkName = "Delete(IdUsuario:Nombre:Apaterno:Email:Password:)"
+            startingLineNumber = "180"
+            endingLineNumber = "180"
+            landmarkName = "Delete(IdUsuario:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -1000,22 +968,6 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "82E60074-6449-4205-9151-5511EE75AAD7"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "SChavezEcommerce/UsuarioViewModel.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "70"
-            endingLineNumber = "70"
-            landmarkName = "GetById(IdUsuario:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "1A0B7D0F-8A6A-4ED5-923B-64FCD8E070FB"
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
@@ -1031,15 +983,31 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "29E33B2B-CB51-4316-A1DD-D2C948C63A0D"
-            shouldBeEnabled = "Yes"
+            uuid = "1A0B7D0F-8A6A-4ED5-923B-64FCD8E070FB"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "SChavezEcommerce/UsuarioViewModel.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "84"
-            endingLineNumber = "84"
+            startingLineNumber = "100"
+            endingLineNumber = "100"
+            landmarkName = "GetById(IdUsuario:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "29E33B2B-CB51-4316-A1DD-D2C948C63A0D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SChavezEcommerce/UsuarioViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
             landmarkName = "GetById(IdUsuario:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -1054,8 +1022,888 @@
             filePath = "SChavezEcommerce/UsuarioViewModel.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "86"
-            endingLineNumber = "86"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "GetById(IdUsuario:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "465E676C-7047-4C8D-831A-70876B8489F6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SChavezEcommerce/Controller/Usuario/UsuarioForm.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "AddButton(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "465E676C-7047-4C8D-831A-70876B8489F6 - ea718976a2ab5a9e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SChavezEcommerce.UsuarioForm.AddButton(__C.UIButton) -&gt; ()"
+                  moduleName = "SChavezEcommerce"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcoherrera/Desktop/SChavezEcommerce/SChavezEcommerce/Controller/Usuario/UsuarioForm.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "432">
+               </Location>
+               <Location
+                  uuid = "465E676C-7047-4C8D-831A-70876B8489F6 - ea718976a2ab5a9e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SChavezEcommerce.UsuarioForm.AddButton(__C.UIButton) -&gt; ()"
+                  moduleName = "SChavezEcommerce"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcoherrera/Desktop/SChavezEcommerce/SChavezEcommerce/Controller/Usuario/UsuarioForm.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "636">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0D809DA3-E59F-4648-8CD9-7AFD31473691"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SChavezEcommerce/Controller/Usuario/UsuarioForm.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "AddButton(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0D809DA3-E59F-4648-8CD9-7AFD31473691 - ea718976a2ab5af9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SChavezEcommerce.UsuarioForm.AddButton(__C.UIButton) -&gt; ()"
+                  moduleName = "SChavezEcommerce"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcoherrera/Desktop/SChavezEcommerce/SChavezEcommerce/Controller/Usuario/UsuarioForm.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "888">
+               </Location>
+               <Location
+                  uuid = "0D809DA3-E59F-4648-8CD9-7AFD31473691 - ea718976a2ab5af9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SChavezEcommerce.UsuarioForm.AddButton(__C.UIButton) -&gt; ()"
+                  moduleName = "SChavezEcommerce"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcoherrera/Desktop/SChavezEcommerce/SChavezEcommerce/Controller/Usuario/UsuarioForm.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "1092">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "271C466C-7428-4CC4-9AD6-77E620893A58"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SChavezEcommerce/Controller/Usuario/UsuarioForm.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "AddButton(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "271C466C-7428-4CC4-9AD6-77E620893A58 - ea718976a2ab5ad8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SChavezEcommerce.UsuarioForm.AddButton(__C.UIButton) -&gt; ()"
+                  moduleName = "SChavezEcommerce"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcoherrera/Desktop/SChavezEcommerce/SChavezEcommerce/Controller/Usuario/UsuarioForm.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "1344">
+               </Location>
+               <Location
+                  uuid = "271C466C-7428-4CC4-9AD6-77E620893A58 - ea718976a2ab5ad8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SChavezEcommerce.UsuarioForm.AddButton(__C.UIButton) -&gt; ()"
+                  moduleName = "SChavezEcommerce"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcoherrera/Desktop/SChavezEcommerce/SChavezEcommerce/Controller/Usuario/UsuarioForm.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "1548">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "48389314-7591-42B1-8726-C4948CB30DFB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SChavezEcommerce/Controller/Usuario/UsuarioForm.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "AddButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1DDBE557-D306-4C19-90FF-D80DC0869996"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SChavezEcommerce/Controller/Usuario/UsuarioForm.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "AddButton(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1DDBE557-D306-4C19-90FF-D80DC0869996 - ea718976a2ab591a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SChavezEcommerce.UsuarioForm.AddButton(__C.UIButton) -&gt; ()"
+                  moduleName = "SChavezEcommerce"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcoherrera/Desktop/SChavezEcommerce/SChavezEcommerce/Controller/Usuario/UsuarioForm.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "1808">
+               </Location>
+               <Location
+                  uuid = "1DDBE557-D306-4C19-90FF-D80DC0869996 - ea718976a2ab591a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SChavezEcommerce.UsuarioForm.AddButton(__C.UIButton) -&gt; ()"
+                  moduleName = "SChavezEcommerce"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcoherrera/Desktop/SChavezEcommerce/SChavezEcommerce/Controller/Usuario/UsuarioForm.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "2012">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8C233534-1A22-4175-937B-F926C54CF48D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SChavezEcommerce/Controller/Usuario/UsuarioForm.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "AddButton(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8C233534-1A22-4175-937B-F926C54CF48D - ea718976a2ab5945"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SChavezEcommerce.UsuarioForm.AddButton(__C.UIButton) -&gt; ()"
+                  moduleName = "SChavezEcommerce"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcoherrera/Desktop/SChavezEcommerce/SChavezEcommerce/Controller/Usuario/UsuarioForm.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "2264">
+               </Location>
+               <Location
+                  uuid = "8C233534-1A22-4175-937B-F926C54CF48D - ea718976a2ab5945"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SChavezEcommerce.UsuarioForm.AddButton(__C.UIButton) -&gt; ()"
+                  moduleName = "SChavezEcommerce"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcoherrera/Desktop/SChavezEcommerce/SChavezEcommerce/Controller/Usuario/UsuarioForm.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "2468">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6A36A345-4EDE-4634-A30A-CB64040094FB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SChavezEcommerce/Controller/Usuario/UsuarioForm.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "AddButton(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6A36A345-4EDE-4634-A30A-CB64040094FB - ea718976a2ab59a4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SChavezEcommerce.UsuarioForm.AddButton(__C.UIButton) -&gt; ()"
+                  moduleName = "SChavezEcommerce"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcoherrera/Desktop/SChavezEcommerce/SChavezEcommerce/Controller/Usuario/UsuarioForm.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "2716">
+               </Location>
+               <Location
+                  uuid = "6A36A345-4EDE-4634-A30A-CB64040094FB - ea718976a2ab59a4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SChavezEcommerce.UsuarioForm.AddButton(__C.UIButton) -&gt; ()"
+                  moduleName = "SChavezEcommerce"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcoherrera/Desktop/SChavezEcommerce/SChavezEcommerce/Controller/Usuario/UsuarioForm.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "2920">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D807B63E-4DF8-4848-B45D-B3729800CE83"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SChavezEcommerce/Controller/Usuario/UsuarioForm.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "AddButton(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D807B63E-4DF8-4848-B45D-B3729800CE83 - ea718976a2ab5987"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SChavezEcommerce.UsuarioForm.AddButton(__C.UIButton) -&gt; ()"
+                  moduleName = "SChavezEcommerce"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcoherrera/Desktop/SChavezEcommerce/SChavezEcommerce/Controller/Usuario/UsuarioForm.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "3172">
+               </Location>
+               <Location
+                  uuid = "D807B63E-4DF8-4848-B45D-B3729800CE83 - ea718976a2ab5987"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SChavezEcommerce.UsuarioForm.AddButton(__C.UIButton) -&gt; ()"
+                  moduleName = "SChavezEcommerce"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcoherrera/Desktop/SChavezEcommerce/SChavezEcommerce/Controller/Usuario/UsuarioForm.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "3376">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3CE91EB2-4C4A-4AC9-AA17-E90DA695D2CE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SChavezEcommerce/Controller/Usuario/UsuarioForm.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "AddButton(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3CE91EB2-4C4A-4AC9-AA17-E90DA695D2CE - ea718976a2ab59e6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SChavezEcommerce.UsuarioForm.AddButton(__C.UIButton) -&gt; ()"
+                  moduleName = "SChavezEcommerce"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcoherrera/Desktop/SChavezEcommerce/SChavezEcommerce/Controller/Usuario/UsuarioForm.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "3628">
+               </Location>
+               <Location
+                  uuid = "3CE91EB2-4C4A-4AC9-AA17-E90DA695D2CE - ea718976a2ab59e6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SChavezEcommerce.UsuarioForm.AddButton(__C.UIButton) -&gt; ()"
+                  moduleName = "SChavezEcommerce"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcoherrera/Desktop/SChavezEcommerce/SChavezEcommerce/Controller/Usuario/UsuarioForm.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "3832">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E015C6CD-5D2B-4339-A976-6E4A739E437A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SChavezEcommerce/Controller/Usuario/UsuarioForm.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "AddButton(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E015C6CD-5D2B-4339-A976-6E4A739E437A - ea718976a2ab59c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SChavezEcommerce.UsuarioForm.AddButton(__C.UIButton) -&gt; ()"
+                  moduleName = "SChavezEcommerce"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcoherrera/Desktop/SChavezEcommerce/SChavezEcommerce/Controller/Usuario/UsuarioForm.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "4084">
+               </Location>
+               <Location
+                  uuid = "E015C6CD-5D2B-4339-A976-6E4A739E437A - ea718976a2ab59c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SChavezEcommerce.UsuarioForm.AddButton(__C.UIButton) -&gt; ()"
+                  moduleName = "SChavezEcommerce"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcoherrera/Desktop/SChavezEcommerce/SChavezEcommerce/Controller/Usuario/UsuarioForm.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "4288">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F1D4AC3C-CD82-4504-920F-68283312202C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SChavezEcommerce/Controller/Usuario/UsuarioForm.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "AddButton(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F1D4AC3C-CD82-4504-920F-68283312202C - ea718976a2ab5820"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SChavezEcommerce.UsuarioForm.AddButton(__C.UIButton) -&gt; ()"
+                  moduleName = "SChavezEcommerce"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcoherrera/Desktop/SChavezEcommerce/SChavezEcommerce/Controller/Usuario/UsuarioForm.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "4540">
+               </Location>
+               <Location
+                  uuid = "F1D4AC3C-CD82-4504-920F-68283312202C - ea718976a2ab5820"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SChavezEcommerce.UsuarioForm.AddButton(__C.UIButton) -&gt; ()"
+                  moduleName = "SChavezEcommerce"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcoherrera/Desktop/SChavezEcommerce/SChavezEcommerce/Controller/Usuario/UsuarioForm.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "4744">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "217109CD-BBEA-4AAF-A9D5-2FEB2AD84733"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SChavezEcommerce/Controller/Usuario/UsuarioForm.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "AddButton(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "217109CD-BBEA-4AAF-A9D5-2FEB2AD84733 - ea718976a2ab5803"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SChavezEcommerce.UsuarioForm.AddButton(__C.UIButton) -&gt; ()"
+                  moduleName = "SChavezEcommerce"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcoherrera/Desktop/SChavezEcommerce/SChavezEcommerce/Controller/Usuario/UsuarioForm.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "4996">
+               </Location>
+               <Location
+                  uuid = "217109CD-BBEA-4AAF-A9D5-2FEB2AD84733 - ea718976a2ab5803"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SChavezEcommerce.UsuarioForm.AddButton(__C.UIButton) -&gt; ()"
+                  moduleName = "SChavezEcommerce"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcoherrera/Desktop/SChavezEcommerce/SChavezEcommerce/Controller/Usuario/UsuarioForm.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "5200">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2F5F2AFC-7375-421A-96B9-212109913585"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SChavezEcommerce/Controller/Usuario/UsuarioForm.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "AddButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B28FC25C-F881-422C-8615-2327D6D0D48A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SChavezEcommerce/UsuarioViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "Add(nombre:apellidoPaterno:apellidoMaterno:fechaNacimiento:email:password:userName:sexo:telefono:celular:curp:rol:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EAE905FB-4B6C-4FD5-BD5D-C53F4BF05705"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SChavezEcommerce/UsuarioViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "Add(nombre:apellidoPaterno:apellidoMaterno:fechaNacimiento:email:password:userName:sexo:telefono:celular:curp:rol:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DDA925A0-EDCB-451F-B2EB-66D9F3F92B82"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SChavezEcommerce/UsuarioViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "Add(nombre:apellidoPaterno:apellidoMaterno:fechaNacimiento:email:password:userName:sexo:telefono:celular:curp:rol:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1620B537-374F-48E0-8931-20D69C1ED6EF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SChavezEcommerce/UsuarioViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "Add(nombre:apellidoPaterno:apellidoMaterno:fechaNacimiento:email:password:userName:sexo:telefono:celular:curp:rol:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4E061B71-E9DB-45D9-BB82-C6FC5812C4CB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SChavezEcommerce/UsuarioViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "Add(nombre:apellidoPaterno:apellidoMaterno:fechaNacimiento:email:password:userName:sexo:telefono:celular:curp:rol:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C39FCE82-334E-43FF-B86D-F16A05366A6E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SChavezEcommerce/UsuarioViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "Add(nombre:apellidoPaterno:apellidoMaterno:fechaNacimiento:email:password:userName:sexo:telefono:celular:curp:rol:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1B79818D-7EEB-4081-BBE2-B3EA579B598C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SChavezEcommerce/UsuarioViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "Add(nombre:apellidoPaterno:apellidoMaterno:fechaNacimiento:email:password:userName:sexo:telefono:celular:curp:rol:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9A1E6622-37A2-48DE-A113-2F40FE359564"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SChavezEcommerce/UsuarioViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "Add(nombre:apellidoPaterno:apellidoMaterno:fechaNacimiento:email:password:userName:sexo:telefono:celular:curp:rol:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8EBAD60F-398F-45D5-9BF6-C90FB948529F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SChavezEcommerce/UsuarioViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "102"
+            endingLineNumber = "102"
+            landmarkName = "GetById(IdUsuario:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E65404CD-DEF3-438A-991D-AE4CD7CF6EBA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SChavezEcommerce/UsuarioViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "103"
+            endingLineNumber = "103"
+            landmarkName = "GetById(IdUsuario:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7ADBE215-AB20-4BC8-9229-D26AC4837B1E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SChavezEcommerce/UsuarioViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "GetById(IdUsuario:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "87BB2BB6-30CD-4B20-A6DF-208608321411"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SChavezEcommerce/UsuarioViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "106"
+            endingLineNumber = "106"
+            landmarkName = "GetById(IdUsuario:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "47823A25-E223-49DA-8E02-FD463ECA9817"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SChavezEcommerce/UsuarioViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "107"
+            endingLineNumber = "107"
+            landmarkName = "GetById(IdUsuario:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F7EBDE6E-E2A8-4237-93BF-1F51065DFB21"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SChavezEcommerce/UsuarioViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
+            landmarkName = "GetById(IdUsuario:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AA69F971-9BB3-4DDE-ACAA-7B29E2CFB658"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SChavezEcommerce/UsuarioViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "GetById(IdUsuario:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DFB70055-8F84-435C-A818-56396F809FDD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SChavezEcommerce/UsuarioViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "110"
+            endingLineNumber = "110"
+            landmarkName = "GetById(IdUsuario:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9A146FE1-C8F6-4497-A257-376AD96DD175"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SChavezEcommerce/UsuarioViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "111"
+            endingLineNumber = "111"
+            landmarkName = "GetById(IdUsuario:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "95C724A3-A212-46BC-8A63-6046576C8EFA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SChavezEcommerce/UsuarioViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "112"
+            endingLineNumber = "112"
+            landmarkName = "GetById(IdUsuario:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "65D6D4B2-56CB-4B6A-B449-389184E54666"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SChavezEcommerce/UsuarioViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "GetById(IdUsuario:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A9D24E6E-4EAE-4B85-B218-2610F0BB810D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SChavezEcommerce/UsuarioViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "114"
+            endingLineNumber = "114"
             landmarkName = "GetById(IdUsuario:)"
             landmarkType = "7">
          </BreakpointContent>
