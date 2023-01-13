@@ -638,8 +638,8 @@
             filePath = "SChavezEcommerce/AppDelegate.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "45"
-            endingLineNumber = "45"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
             landmarkName = "persistentContainer"
             landmarkType = "24">
          </BreakpointContent>
@@ -1540,7 +1540,7 @@
             landmarkType = "7">
             <Locations>
                <Location
-                  uuid = "217109CD-BBEA-4AAF-A9D5-2FEB2AD84733 - ea718976a2ab5803"
+                  uuid = "217109CD-BBEA-4AAF-A9D5-2FEB2AD84733 - ea718976a2ab58ee"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -1550,12 +1550,12 @@
                   urlString = "file:///Users/marcoherrera/Desktop/SChavezEcommerce/SChavezEcommerce/Controller/Usuario/UsuarioForm.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "63"
-                  endingLineNumber = "63"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
                   offsetFromSymbolStart = "4996">
                </Location>
                <Location
-                  uuid = "217109CD-BBEA-4AAF-A9D5-2FEB2AD84733 - ea718976a2ab5803"
+                  uuid = "217109CD-BBEA-4AAF-A9D5-2FEB2AD84733 - ea718976a2ab58ee"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -1565,9 +1565,9 @@
                   urlString = "file:///Users/marcoherrera/Desktop/SChavezEcommerce/SChavezEcommerce/Controller/Usuario/UsuarioForm.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "63"
-                  endingLineNumber = "63"
-                  offsetFromSymbolStart = "5200">
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "5196">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -1905,6 +1905,197 @@
             startingLineNumber = "114"
             endingLineNumber = "114"
             landmarkName = "GetById(IdUsuario:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "06F6ADFE-0D47-4F3D-912C-89A41DC06DAD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SChavezEcommerce/Controller/Usuario/LoginForm.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "RegistrarButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A008E1C0-AB73-4905-A4A0-102D99640F78"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SChavezEcommerce/Controller/Usuario/LoginForm.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "RegistrarButton(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A008E1C0-AB73-4905-A4A0-102D99640F78 - 26e784b92b101107"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SChavezEcommerce.LoginForm.RegistrarButton(__C.UIButton) -&gt; ()"
+                  moduleName = "SChavezEcommerce"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcoherrera/Desktop/SChavezEcommerce/SChavezEcommerce/Controller/Usuario/LoginForm.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "A008E1C0-AB73-4905-A4A0-102D99640F78 - 26e784b92b101107"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SChavezEcommerce.LoginForm.RegistrarButton(__C.UIButton) -&gt; ()"
+                  moduleName = "SChavezEcommerce"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcoherrera/Desktop/SChavezEcommerce/SChavezEcommerce/Controller/Usuario/LoginForm.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "296">
+               </Location>
+               <Location
+                  uuid = "A008E1C0-AB73-4905-A4A0-102D99640F78 - 26e784b92b101107"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SChavezEcommerce.LoginForm.RegistrarButton(__C.UIButton) -&gt; ()"
+                  moduleName = "SChavezEcommerce"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcoherrera/Desktop/SChavezEcommerce/SChavezEcommerce/Controller/Usuario/LoginForm.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "656">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9ED22105-5498-44FE-A4AB-11C8CA067DC7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SChavezEcommerce/Controller/Usuario/LoginForm.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "RegistrarButton(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9ED22105-5498-44FE-A4AB-11C8CA067DC7 - 26e784b92b1011e0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SChavezEcommerce.LoginForm.RegistrarButton(__C.UIButton) -&gt; ()"
+                  moduleName = "SChavezEcommerce"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcoherrera/Desktop/SChavezEcommerce/SChavezEcommerce/Controller/Usuario/LoginForm.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "820">
+               </Location>
+               <Location
+                  uuid = "9ED22105-5498-44FE-A4AB-11C8CA067DC7 - 8dbf6cce3728a87e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRAuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SChavezEcommerce.LoginForm.RegistrarButton(__C.UIButton) -&gt; ()"
+                  moduleName = "SChavezEcommerce"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcoherrera/Desktop/SChavezEcommerce/SChavezEcommerce/Controller/Usuario/LoginForm.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DB0EFDC1-B80F-48B0-A650-1B3D43D20FEC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SChavezEcommerce/Controller/Usuario/LoginForm.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "RegistrarButton(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DB0EFDC1-B80F-48B0-A650-1B3D43D20FEC - 8dbf6cce3728a87e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRAuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SChavezEcommerce.LoginForm.RegistrarButton(__C.UIButton) -&gt; ()"
+                  moduleName = "SChavezEcommerce"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcoherrera/Desktop/SChavezEcommerce/SChavezEcommerce/Controller/Usuario/LoginForm.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "DB0EFDC1-B80F-48B0-A650-1B3D43D20FEC - 8dbf6cce3728a87e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRAuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SChavezEcommerce.LoginForm.RegistrarButton(__C.UIButton) -&gt; ()"
+                  moduleName = "SChavezEcommerce"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcoherrera/Desktop/SChavezEcommerce/SChavezEcommerce/Controller/Usuario/LoginForm.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F6AEE78C-25B4-4338-A05F-C203A8D84D4D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SChavezEcommerce/Controller/Usuario/LoginForm.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "AccederButon(_:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
